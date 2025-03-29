@@ -1,4 +1,4 @@
-Scala code for slide deck [Drawing Heighway’s Dragon - Recursive Function Rewrite - From Imperative Style in Pascal 64 To Functional Style in Scala 3](https://fpilluminated.com/deck/256)
+Scala code for slide deck [Drawing Heighway’s Dragon - Recursive Function Rewrite - From Imperative Style in Pascal 64 To Functional Style in Scala 3](https://fpilluminated.org/deck/256)
 
 ---
 
